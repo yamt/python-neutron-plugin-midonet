@@ -1,3 +1,15 @@
+WARNING
+=======
+
+This repository has been moved to the new location:
+
+    https://github.com/stackforge/networking-midonet
+
+https://github.com/midonet/python-neutron-plugin-midonet
+is no longer maintained.  Please refer to the new location.
+Thank you!
+
+
 python-neutron-plugin-midonet
 =============================
 
